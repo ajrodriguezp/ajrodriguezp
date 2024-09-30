@@ -9,8 +9,8 @@ Soy Alan Rodríguez, un desarrollador apasionado y aprendiz constante.
 
 ### Tecnologías y Herramientas:
 
-- **Lenguajes de Programación:** PHP, C#, JavaScript, Java, 
-- **Frameworks y Librerías:** Laravel, CodeIgniter, NodeJs
+- **Lenguajes de Programación:** PHP, C#, JavaScript, Java, Dart, TypeScript
+- **Frameworks y Librerías:** Laravel, CodeIgniter, NodeJs, NestJs Flutter
 - **Bases de Datos:** MySQL, PL/SQL Developer, Microsoft SQL Server, Oracle, MongoDB
 
 ¡Conectemos y creemos algo increíble juntos!
